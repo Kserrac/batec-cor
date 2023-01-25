@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id=".`+,n0DS=)|H8]l!P`k}" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id=")3Oc[Vo-W8U{;v5r7#}l"><field name="i">IconNames.Heart</field><next><block type="device_pause" id=")b)D(@fLx,Lx.:Q]Lck*"><value name="pause"><shadow type="timePicker" id="JEMdj,(P`YFA4g5_E7[S"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id=":5yk06%lo%|`pB,-N7?n"><field name="i">IconNames.SmallHeart</field><next><block type="device_show_leds" id="H%N=@Gjj=3`kvzqKoMX7"><field name="LEDS">`
+        . . . # . 
+        . . . # # 
+        # # # . . 
+        # # # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="eTR1XC$V!EiO=q*^n+m2"><value name="pause"><shadow type="timePicker" id="vIbbtgY`}aZ!NWkR:h!/"><field name="ms">500</field></shadow></value><next><block type="device_print_message" id="pZQ6!j0nIbTGi?`a/-_D"><value name="text"><shadow type="text" id="`V(:]o;$Ua)AyXH0hhYl"><field name="TEXT">Quim</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="B;W[.`W6y)R,0lyX|,A;" x="268" y="78"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="E}:h/*bWW6dH9EQlQsMP"><field name="i">IconNames.Sad</field></block></statement></block></xml>
